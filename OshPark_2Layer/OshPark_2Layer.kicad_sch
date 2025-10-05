@@ -1,0 +1,18 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "6bd115d6-07e0-45db-8f2e-3cbb0429104f")
+	(paper "A4")
+	(title_block
+		(rev "1")
+		(comment 1 "OSH Park 2 Layer Prototype.")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
